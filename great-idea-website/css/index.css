@@ -71,6 +71,9 @@ h1, h2, h3, h4, h5 {
 
 header {
 	margin-top: 20px;
+	position: sticky;
+	z-index: 1;
+	top: 0;
 }
 
 header nav {
